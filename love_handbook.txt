@@ -4,7 +4,7 @@ Class Main {
         
 	System.out.println("Star Love LM A Lifetime ^_^");
 	System.out.println("We will be together forever");
-	System.out.println("I am very happy -- Star");
+	System.out.println("I am very happy --- Star-LM");
 
     }
 
