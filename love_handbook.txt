@@ -3,6 +3,7 @@ Class Main {
     public static void main(String[] args) {
         
 	System.out.println("Star Love LM A Lifetime ^_^");
+	System.out.println("We will be together forever");
 
     }
 
